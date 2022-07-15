@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\appClinica.Core.Domain\appClinica.Core.Domain.csproj" />
+    <ProjectReference Include="..\appClinica.Core.Infraestructure\appClinica.Core.Infraestructure.csproj" />
+  </ItemGroup>
+
+</Project>

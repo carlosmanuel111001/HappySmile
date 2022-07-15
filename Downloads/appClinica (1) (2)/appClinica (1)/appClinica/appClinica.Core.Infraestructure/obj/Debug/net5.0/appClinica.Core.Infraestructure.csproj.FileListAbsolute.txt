@@ -1,0 +1,68 @@
+C:\Users\PC\Documents\GitHub\appClinica\appClinica.Core.Infraestructure\bin\Debug\net5.0\appClinica.Core.Infraestructure.deps.json
+C:\Users\PC\Documents\GitHub\appClinica\appClinica.Core.Infraestructure\bin\Debug\net5.0\appClinica.Core.Infraestructure.dll
+C:\Users\PC\Documents\GitHub\appClinica\appClinica.Core.Infraestructure\bin\Debug\net5.0\appClinica.Core.Infraestructure.pdb
+C:\Users\PC\Documents\GitHub\appClinica\appClinica.Core.Infraestructure\bin\Debug\net5.0\appClinica.Adapters.SQLServerDataAccess.dll
+C:\Users\PC\Documents\GitHub\appClinica\appClinica.Core.Infraestructure\bin\Debug\net5.0\appClinica.Core.Domain.dll
+C:\Users\PC\Documents\GitHub\appClinica\appClinica.Core.Infraestructure\bin\Debug\net5.0\appClinica.Adapters.SQLServerDataAccess.pdb
+C:\Users\PC\Documents\GitHub\appClinica\appClinica.Core.Infraestructure\bin\Debug\net5.0\appClinica.Core.Domain.pdb
+C:\Users\PC\Documents\GitHub\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\appClinica.Core.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\appClinica.Core.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\appClinica.Core.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\appClinica.Core.Infraestructure.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\appClinica.Core.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\appClinica.Core.Infraestructure.csproj.CopyComplete
+C:\Users\PC\Documents\GitHub\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\appClinica.Core.Infraestructure.dll
+C:\Users\PC\Documents\GitHub\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\refint\appClinica.Core.Infraestructure.dll
+C:\Users\PC\Documents\GitHub\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\appClinica.Core.Infraestructure.pdb
+C:\Users\PC\Documents\GitHub\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\ref\appClinica.Core.Infraestructure.dll
+C:\Users\Carlos Fuentes\Downloads\appClinica (1)\appClinica\appClinica.Core.Infraestructure\bin\Debug\net5.0\appClinica.Core.Infraestructure.deps.json
+C:\Users\Carlos Fuentes\Downloads\appClinica (1)\appClinica\appClinica.Core.Infraestructure\bin\Debug\net5.0\appClinica.Core.Infraestructure.dll
+C:\Users\Carlos Fuentes\Downloads\appClinica (1)\appClinica\appClinica.Core.Infraestructure\bin\Debug\net5.0\appClinica.Core.Infraestructure.pdb
+C:\Users\Carlos Fuentes\Downloads\appClinica (1)\appClinica\appClinica.Core.Infraestructure\bin\Debug\net5.0\appClinica.Adapters.SQLServerDataAccess.dll
+C:\Users\Carlos Fuentes\Downloads\appClinica (1)\appClinica\appClinica.Core.Infraestructure\bin\Debug\net5.0\appClinica.Core.Domain.dll
+C:\Users\Carlos Fuentes\Downloads\appClinica (1)\appClinica\appClinica.Core.Infraestructure\bin\Debug\net5.0\appClinica.Adapters.SQLServerDataAccess.pdb
+C:\Users\Carlos Fuentes\Downloads\appClinica (1)\appClinica\appClinica.Core.Infraestructure\bin\Debug\net5.0\appClinica.Core.Domain.pdb
+C:\Users\Carlos Fuentes\Downloads\appClinica (1)\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\appClinica.Core.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Carlos Fuentes\Downloads\appClinica (1)\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\appClinica.Core.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Fuentes\Downloads\appClinica (1)\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\appClinica.Core.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Carlos Fuentes\Downloads\appClinica (1)\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\appClinica.Core.Infraestructure.AssemblyInfo.cs
+C:\Users\Carlos Fuentes\Downloads\appClinica (1)\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\appClinica.Core.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Fuentes\Downloads\appClinica (1)\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\appClinica.Core.Infraestructure.csproj.CopyComplete
+C:\Users\Carlos Fuentes\Downloads\appClinica (1)\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\appClinica.Core.Infraestructure.dll
+C:\Users\Carlos Fuentes\Downloads\appClinica (1)\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\refint\appClinica.Core.Infraestructure.dll
+C:\Users\Carlos Fuentes\Downloads\appClinica (1)\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\appClinica.Core.Infraestructure.pdb
+C:\Users\Carlos Fuentes\Downloads\appClinica (1)\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\ref\appClinica.Core.Infraestructure.dll
+C:\Users\PC\Downloads\appClinica (1)\appClinica (1)\appClinica\appClinica.Core.Infraestructure\bin\Debug\net5.0\appClinica.Core.Infraestructure.deps.json
+C:\Users\PC\Downloads\appClinica (1)\appClinica (1)\appClinica\appClinica.Core.Infraestructure\bin\Debug\net5.0\appClinica.Core.Infraestructure.dll
+C:\Users\PC\Downloads\appClinica (1)\appClinica (1)\appClinica\appClinica.Core.Infraestructure\bin\Debug\net5.0\appClinica.Core.Infraestructure.pdb
+C:\Users\PC\Downloads\appClinica (1)\appClinica (1)\appClinica\appClinica.Core.Infraestructure\bin\Debug\net5.0\appClinica.Adapters.SQLServerDataAccess.dll
+C:\Users\PC\Downloads\appClinica (1)\appClinica (1)\appClinica\appClinica.Core.Infraestructure\bin\Debug\net5.0\appClinica.Core.Domain.dll
+C:\Users\PC\Downloads\appClinica (1)\appClinica (1)\appClinica\appClinica.Core.Infraestructure\bin\Debug\net5.0\appClinica.Adapters.SQLServerDataAccess.pdb
+C:\Users\PC\Downloads\appClinica (1)\appClinica (1)\appClinica\appClinica.Core.Infraestructure\bin\Debug\net5.0\appClinica.Core.Domain.pdb
+C:\Users\PC\Downloads\appClinica (1)\appClinica (1)\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\appClinica.Core.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\appClinica (1)\appClinica (1)\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\appClinica.Core.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\appClinica (1)\appClinica (1)\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\appClinica.Core.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\appClinica (1)\appClinica (1)\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\appClinica.Core.Infraestructure.AssemblyInfo.cs
+C:\Users\PC\Downloads\appClinica (1)\appClinica (1)\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\appClinica.Core.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\appClinica (1)\appClinica (1)\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\appClinica.Core.Infraestructure.csproj.CopyComplete
+C:\Users\PC\Downloads\appClinica (1)\appClinica (1)\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\appClinica.Core.Infraestructure.dll
+C:\Users\PC\Downloads\appClinica (1)\appClinica (1)\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\refint\appClinica.Core.Infraestructure.dll
+C:\Users\PC\Downloads\appClinica (1)\appClinica (1)\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\appClinica.Core.Infraestructure.pdb
+C:\Users\PC\Downloads\appClinica (1)\appClinica (1)\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\ref\appClinica.Core.Infraestructure.dll
+C:\Users\Carlos Fuentes\Downloads\appClinica (1) (2)\appClinica (1)\appClinica\appClinica.Core.Infraestructure\bin\Debug\net5.0\appClinica.Core.Infraestructure.deps.json
+C:\Users\Carlos Fuentes\Downloads\appClinica (1) (2)\appClinica (1)\appClinica\appClinica.Core.Infraestructure\bin\Debug\net5.0\appClinica.Core.Infraestructure.dll
+C:\Users\Carlos Fuentes\Downloads\appClinica (1) (2)\appClinica (1)\appClinica\appClinica.Core.Infraestructure\bin\Debug\net5.0\appClinica.Core.Infraestructure.pdb
+C:\Users\Carlos Fuentes\Downloads\appClinica (1) (2)\appClinica (1)\appClinica\appClinica.Core.Infraestructure\bin\Debug\net5.0\appClinica.Adapters.SQLServerDataAccess.dll
+C:\Users\Carlos Fuentes\Downloads\appClinica (1) (2)\appClinica (1)\appClinica\appClinica.Core.Infraestructure\bin\Debug\net5.0\appClinica.Core.Domain.dll
+C:\Users\Carlos Fuentes\Downloads\appClinica (1) (2)\appClinica (1)\appClinica\appClinica.Core.Infraestructure\bin\Debug\net5.0\appClinica.Adapters.SQLServerDataAccess.pdb
+C:\Users\Carlos Fuentes\Downloads\appClinica (1) (2)\appClinica (1)\appClinica\appClinica.Core.Infraestructure\bin\Debug\net5.0\appClinica.Core.Domain.pdb
+C:\Users\Carlos Fuentes\Downloads\appClinica (1) (2)\appClinica (1)\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\appClinica.Core.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Carlos Fuentes\Downloads\appClinica (1) (2)\appClinica (1)\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\appClinica.Core.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Fuentes\Downloads\appClinica (1) (2)\appClinica (1)\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\appClinica.Core.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Carlos Fuentes\Downloads\appClinica (1) (2)\appClinica (1)\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\appClinica.Core.Infraestructure.AssemblyInfo.cs
+C:\Users\Carlos Fuentes\Downloads\appClinica (1) (2)\appClinica (1)\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\appClinica.Core.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Fuentes\Downloads\appClinica (1) (2)\appClinica (1)\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\appClinica.Core.Infraestructure.csproj.CopyComplete
+C:\Users\Carlos Fuentes\Downloads\appClinica (1) (2)\appClinica (1)\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\appClinica.Core.Infraestructure.dll
+C:\Users\Carlos Fuentes\Downloads\appClinica (1) (2)\appClinica (1)\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\refint\appClinica.Core.Infraestructure.dll
+C:\Users\Carlos Fuentes\Downloads\appClinica (1) (2)\appClinica (1)\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\appClinica.Core.Infraestructure.pdb
+C:\Users\Carlos Fuentes\Downloads\appClinica (1) (2)\appClinica (1)\appClinica\appClinica.Core.Infraestructure\obj\Debug\net5.0\ref\appClinica.Core.Infraestructure.dll

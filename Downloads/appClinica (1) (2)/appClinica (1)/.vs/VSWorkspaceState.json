@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\appClinica",
+    "\\appClinica\\appClinica.Adapters.SQLServerDataAccess",
+    "\\appClinica\\appClinica.Adapters.SQLServerDataAccess\\Entities",
+    "\\appClinica\\appClinica.Core.Application",
+    "\\appClinica\\appClinica.Core.Application\\UseCases"
+  ],
+  "SelectedNode": "\\appClinica\\appClinica.Core.Application\\UseCases\\CitaUseCase.cs",
+  "PreviewInSolutionExplorer": false
+}

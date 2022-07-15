@@ -1,0 +1,48 @@
+C:\Users\PC\Documents\GitHub\appClinica\appClinica.Core.Domain\bin\Debug\net5.0\appClinica.Core.Domain.deps.json
+C:\Users\PC\Documents\GitHub\appClinica\appClinica.Core.Domain\bin\Debug\net5.0\appClinica.Core.Domain.dll
+C:\Users\PC\Documents\GitHub\appClinica\appClinica.Core.Domain\bin\Debug\net5.0\appClinica.Core.Domain.pdb
+C:\Users\PC\Documents\GitHub\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\appClinica.Core.Domain.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\appClinica.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\appClinica.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\appClinica.Core.Domain.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\appClinica.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\appClinica.Core.Domain.dll
+C:\Users\PC\Documents\GitHub\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\refint\appClinica.Core.Domain.dll
+C:\Users\PC\Documents\GitHub\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\appClinica.Core.Domain.pdb
+C:\Users\PC\Documents\GitHub\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\ref\appClinica.Core.Domain.dll
+C:\Users\Carlos Fuentes\Downloads\appClinica (1)\appClinica\appClinica.Core.Domain\bin\Debug\net5.0\appClinica.Core.Domain.deps.json
+C:\Users\Carlos Fuentes\Downloads\appClinica (1)\appClinica\appClinica.Core.Domain\bin\Debug\net5.0\appClinica.Core.Domain.dll
+C:\Users\Carlos Fuentes\Downloads\appClinica (1)\appClinica\appClinica.Core.Domain\bin\Debug\net5.0\appClinica.Core.Domain.pdb
+C:\Users\Carlos Fuentes\Downloads\appClinica (1)\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\appClinica.Core.Domain.csproj.AssemblyReference.cache
+C:\Users\Carlos Fuentes\Downloads\appClinica (1)\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\appClinica.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Fuentes\Downloads\appClinica (1)\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\appClinica.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\Carlos Fuentes\Downloads\appClinica (1)\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\appClinica.Core.Domain.AssemblyInfo.cs
+C:\Users\Carlos Fuentes\Downloads\appClinica (1)\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\appClinica.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Fuentes\Downloads\appClinica (1)\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\appClinica.Core.Domain.dll
+C:\Users\Carlos Fuentes\Downloads\appClinica (1)\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\refint\appClinica.Core.Domain.dll
+C:\Users\Carlos Fuentes\Downloads\appClinica (1)\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\appClinica.Core.Domain.pdb
+C:\Users\Carlos Fuentes\Downloads\appClinica (1)\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\ref\appClinica.Core.Domain.dll
+C:\Users\PC\Downloads\appClinica (1)\appClinica (1)\appClinica\appClinica.Core.Domain\bin\Debug\net5.0\appClinica.Core.Domain.deps.json
+C:\Users\PC\Downloads\appClinica (1)\appClinica (1)\appClinica\appClinica.Core.Domain\bin\Debug\net5.0\appClinica.Core.Domain.dll
+C:\Users\PC\Downloads\appClinica (1)\appClinica (1)\appClinica\appClinica.Core.Domain\bin\Debug\net5.0\appClinica.Core.Domain.pdb
+C:\Users\PC\Downloads\appClinica (1)\appClinica (1)\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\appClinica.Core.Domain.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\appClinica (1)\appClinica (1)\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\appClinica.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\appClinica (1)\appClinica (1)\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\appClinica.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\appClinica (1)\appClinica (1)\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\appClinica.Core.Domain.AssemblyInfo.cs
+C:\Users\PC\Downloads\appClinica (1)\appClinica (1)\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\appClinica.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\appClinica (1)\appClinica (1)\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\appClinica.Core.Domain.dll
+C:\Users\PC\Downloads\appClinica (1)\appClinica (1)\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\refint\appClinica.Core.Domain.dll
+C:\Users\PC\Downloads\appClinica (1)\appClinica (1)\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\appClinica.Core.Domain.pdb
+C:\Users\PC\Downloads\appClinica (1)\appClinica (1)\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\ref\appClinica.Core.Domain.dll
+C:\Users\Carlos Fuentes\Downloads\appClinica (1) (2)\appClinica (1)\appClinica\appClinica.Core.Domain\bin\Debug\net5.0\appClinica.Core.Domain.deps.json
+C:\Users\Carlos Fuentes\Downloads\appClinica (1) (2)\appClinica (1)\appClinica\appClinica.Core.Domain\bin\Debug\net5.0\appClinica.Core.Domain.dll
+C:\Users\Carlos Fuentes\Downloads\appClinica (1) (2)\appClinica (1)\appClinica\appClinica.Core.Domain\bin\Debug\net5.0\appClinica.Core.Domain.pdb
+C:\Users\Carlos Fuentes\Downloads\appClinica (1) (2)\appClinica (1)\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\appClinica.Core.Domain.csproj.AssemblyReference.cache
+C:\Users\Carlos Fuentes\Downloads\appClinica (1) (2)\appClinica (1)\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\appClinica.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Fuentes\Downloads\appClinica (1) (2)\appClinica (1)\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\appClinica.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\Carlos Fuentes\Downloads\appClinica (1) (2)\appClinica (1)\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\appClinica.Core.Domain.AssemblyInfo.cs
+C:\Users\Carlos Fuentes\Downloads\appClinica (1) (2)\appClinica (1)\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\appClinica.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Fuentes\Downloads\appClinica (1) (2)\appClinica (1)\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\appClinica.Core.Domain.dll
+C:\Users\Carlos Fuentes\Downloads\appClinica (1) (2)\appClinica (1)\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\refint\appClinica.Core.Domain.dll
+C:\Users\Carlos Fuentes\Downloads\appClinica (1) (2)\appClinica (1)\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\appClinica.Core.Domain.pdb
+C:\Users\Carlos Fuentes\Downloads\appClinica (1) (2)\appClinica (1)\appClinica\appClinica.Core.Domain\obj\Debug\net5.0\ref\appClinica.Core.Domain.dll
